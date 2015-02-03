@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="" APIVersion="9" Name="MyPanel" Description="A test panel to try some aspects of the UI">
+    <Script Name="MyPanel.lua"/>
+    <Form Name="MyPanel.xml"/>
+</Addon>
